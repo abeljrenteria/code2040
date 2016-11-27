@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">code2040</string>
+    <string name="begin">Begin</string>
+    <string name="about">about</string>
+    <string name="api_challenge">api_challenge</string>
+    <string name="end"><![CDATA[<End/>]]></string>
+</resources>
